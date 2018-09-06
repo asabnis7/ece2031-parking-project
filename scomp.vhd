@@ -1,3 +1,4 @@
+-- Arjun Sabnis
 -- Simple Computer for Altera DE2 FPGA
 -- Subroutines used to implement parking controller instructions in .asm format
 
